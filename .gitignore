@@ -1,0 +1,16 @@
+# Project exclude paths
+/.metadata/
+/.recommenders/
+*/.project
+*/.classpath
+*/.factorypath
+*/bin/
+*/log/
+*/logs/
+*/target/
+*/.settings
+/.idea
+/logs
+.idea
+.logs
+.log
